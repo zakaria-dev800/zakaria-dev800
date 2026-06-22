@@ -26,15 +26,22 @@
 
 ```js
 const zakaria = {
-  name:       "Zakaria El Korchi",
-  alias:      "Suzko",
-  location:   "Laâyoune, Morocco 🇲🇦",
-  role:       "Full-Stack & Mobile Software Engineer",
-  education:  "Digital Development Student",
-  languages:  ["Darija 🇲🇦", "Français 🇫🇷", "English 🇬🇧"],
-  currentWork: "Blood Donation Application 🩸",
-  newSkills:  ["Node.js 🟢", "Express ⚡", "Docker 🐳"],
-  motto:      "Code. Build. Deploy. Repeat. 🚀"
+  name: "Zakaria El Korchi",
+  alias: "suzko",
+  location: "Laâyoune, Morocco 🇲🇦",
+  role: "Full-Stack & Mobile ",
+  education: "Digital Development Student",
+  techStack: {
+    frontend: ["React", "JavaScript", "Tailwind CSS", "Bootstrap"],
+    mobile: ["Flutter (Dart)"],
+    backend: ["Laravel (PHP)", "Node.js", "Express"],
+    database: ["MySQL", "MongoDB"]
+  },
+
+  languages: ["Arabic 🇲🇦", "Français 🇫🇷", "English 🇬🇧"],
+  
+  tools: ["Docker 🐳", "Git & GitHub 🚀", "Bitwarden 🔐"],
+  motto: "Code. Build. Deploy. Repeat. 🚀"
 };
 ```
 
