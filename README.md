@@ -1,10 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Zakaria%20El%20Korchi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Engineer%20%7C%20Suzko&descAlignY=58&descSize=18&animation=fadeIn" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Mobile+App+Developer;Digital+Development+Student;Building+with+Flutter+%26+React" alt="Typing SVG" />
 
-[![Location](https://img.shields.io/badge/📍-Laâyoune%2C%20Morocco-red?style=flat-square)](https://maps.google.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=zakaria-dev800&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/zakaria-dev800)
 </div>
 
 <div align="center">
