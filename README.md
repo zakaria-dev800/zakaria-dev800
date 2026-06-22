@@ -32,18 +32,13 @@ const zakaria = {
   location: "Laâyoune, Morocco 🇲🇦",
   role: "Full-Stack & Mobile Software Engineer",
   education: "Digital Development Student",
-  
-  // Les technologies principales li kaddire bihom les projets dialek
   techStack: {
     frontend: ["React", "JavaScript", "Tailwind CSS"],
     mobile: ["Flutter (Dart)"],
     backend: ["Laravel (PHP)", "Node.js", "Express"],
     database: ["MySQL", "MongoDB"]
   },
-
-  // Hadou kfyin ou nadin bzaf, bla ma tzid loghat khrin
   languages: ["Arabic 🇲🇦", "Français 🇫🇷", "English 🇬🇧"],
-  
   tools: ["Docker 🐳", "Git & GitHub 🚀", "Bitwarden 🔐"],
   motto: "Code. Build. Deploy. Repeat. 🚀"
 };
