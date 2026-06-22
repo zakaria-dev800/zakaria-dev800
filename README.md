@@ -1,17 +1,7 @@
 <div align="center">
 
-```
-███████╗ █████╗ ██╗  ██╗ █████╗ ██████╗ ██╗ █████╗     ██████╗ ███████╗██╗   ██╗ █████╗  ██████╗  ██████╗ 
-╚══███╔╝██╔══██╗██║ ██╔╝██╔══██╗██╔══██╗██║██╔══██╗    ██╔══██╗██╔════╝██║   ██║██╔══██╗██╔═████╗██╔═████╗
-  ███╔╝ ███████║█████╔╝ ███████║██████╔╝██║███████║    ██║  ██║█████╗  ██║   ██║╚█████╔╝██║██╔██║██║██╔██║
- ███╔╝  ██╔══██║██╔═██╗ ██╔══██║██╔══██╗██║██╔══██║    ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══██╗████╔╝██║████╔╝██║
-███████╗██║  ██║██║  ██╗██║  ██║██║  ██║██║██║  ██║    ██████╔╝███████╗ ╚████╔╝ ╚█████╔╝╚██████╔╝╚██████╔╝
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝   ╚════╝  ╚═════╝  ╚═════╝ 
-```
-
-# 👋 Hi, I'm Zakaria El Korchi (Suzko)
-
-**`Full-Stack & Mobile Software Engineer | Digital Development Student`**
+# 🚀 Zakaria El Korchi
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Mobile+App+Developer;Digital+Development+Student;Building+with+Flutter+%26+React" alt="Typing SVG" />
 
 [![Location](https://img.shields.io/badge/📍-Laâyoune%2C%20Morocco-red?style=flat-square)](https://maps.google.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=zakaria-dev800&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/zakaria-dev800)
@@ -54,79 +44,3 @@
 ---
 
 ## 🗺️ Developer Roadmap
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    ZAKARIA · ROADMAP 2024–2025              │
-├──────┬──────────────────────────────────────────────────────┤
-│  ✅  │  Formation Full-Stack (Laravel, React, Flutter...)   │
-│  ✅  │  5+ Projets déployés (SchoolBus, Store, Alerts...)  │
-│  🔵  │  Blood Donation App — EN COURS                       │
-│  🟢  │  Node.js + Express APIs — AJOUT MAINTENANT           │
-│  🟢  │  Docker & Containerisation — AJOUT MAINTENANT        │
-│  ⚪  │  Cloud / AWS / CI-CD — PROCHAINE ÉTAPE               │
-│  ⚪  │  AI Integration — PROCHAINE ÉTAPE                    │
-└──────┴──────────────────────────────────────────────────────┘
-```
-
----
-
-## ⏳ Current Work (En Cours)
-
-- 🩸 **Blood Donation Application** — Application de mise en relation entre donneurs et receveurs de sang
-- 🟢 **Node.js + Express** — Apprentissage et intégration dans mes projets backend
-- 🐳 **Docker** — Containerisation de mes applications pour un déploiement propre et portable
-
----
-
-## 🚀 Featured Projects
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| 🚨 **Alerts Mobile App** | Application mobile d'alertes et notifications en temps réel | Flutter |
-| 🚌 **SchoolBus Maroc** | Suivi en temps réel des bus scolaires et sécurité des élèves | Flutter |
-| 📦 **Store Management System** | Système full-stack de gestion de stock | Laravel + React |
-| 🎓 **Student Absence Management** | Système de gestion des absences académiques | PHP + MySQL + Bootstrap |
-| 🛡️ **Network Scanner Tool** | Scanner de sécurité réseau avec Scapy | Python |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakaria-dev800&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-dev800&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=zakaria-dev800&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=c9d1d9)
-
-</div>
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-zakaria--dev800-181717?style=for-the-badge&logo=github)](https://github.com/zakaria-dev800)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@email.com)
-
-</div>
-
----
-
-<div align="center">
-
-```
-  ██████╗  ██████╗ ██████╗ ███████╗    ██╗███████╗    ██╗     ██╗███████╗███████╗
- ██╔════╝ ██╔═══██╗██╔══██╗██╔════╝    ██║██╔════╝    ██║     ██║██╔════╝██╔════╝
- ██║      ██║   ██║██║  ██║█████╗      ██║███████╗    ██║     ██║█████╗  █████╗  
- ██║      ██║   ██║██║  ██║██╔══╝      ██║╚════██║    ██║     ██║██╔══╝  ██╔══╝  
- ╚██████╗ ╚██████╔╝██████╔╝███████╗    ██║███████║    ███████╗██║███████╗███████╗
-  ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝    ╚═╝╚══════╝    ╚══════╝╚═╝╚══════╝╚══════╝
-```
-
-*Building the future, one commit at a time. 🇲🇦*
-
-</div>
