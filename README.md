@@ -1,14 +1,9 @@
-@@ -1,46 +1,196 @@
+
 <div align="center">
 
 # 🚀 Zakaria El Korchi
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Mobile+App+Developer;Digital+Development+Student;Building+with+Flutter+%26+React" alt="Typing SVG" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Zakaria%20El%20Korchi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Engineer%20%7C%20Suzko&descAlignY=58&descSize=18&animation=fadeIn" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Mobile+App+Developer;Digital+Development+Student;Building+with+Flutter+%26+React" alt="Typing SVG" />
-
-[![Location](https://img.shields.io/badge/📍-Laâyoune%2C%20Morocco-red?style=flat-square)](https://maps.google.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=zakaria-dev800&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/zakaria-dev800)
-</div>
 
 <div align="center">
 
@@ -32,15 +27,25 @@
 
 ```js
 const zakaria = {
-  name:       "Zakaria El Korchi",
-  alias:      "Suzko",
-  location:   "Laâyoune, Morocco 🇲🇦",
-  role:       "Full-Stack & Mobile Software Engineer",
-  education:  "Digital Development Student",
-  languages:  ["Darija 🇲🇦", "Français 🇫🇷", "English 🇬🇧"],
-  currentWork: "Blood Donation Application 🩸",
-  newSkills:  ["Node.js 🟢", "Express ⚡", "Docker 🐳"],
-  motto:      "Code. Build. Deploy. Repeat. 🚀"
+  name: "Zakaria El Korchi",
+  alias: "suzko",
+  location: "Laâyoune, Morocco 🇲🇦",
+  role: "Full-Stack & Mobile Software Engineer",
+  education: "Digital Development Student",
+  
+  // Les technologies principales li kaddire bihom les projets dialek
+  techStack: {
+    frontend: ["React", "JavaScript", "Tailwind CSS"],
+    mobile: ["Flutter (Dart)"],
+    backend: ["Laravel (PHP)", "Node.js", "Express"],
+    database: ["MySQL", "MongoDB"]
+  },
+
+  // Hadou kfyin ou nadin bzaf, bla ma tzid loghat khrin
+  languages: ["Arabic 🇲🇦", "Français 🇫🇷", "English 🇬🇧"],
+  
+  tools: ["Docker 🐳", "Git & GitHub 🚀", "Bitwarden 🔐"],
+  motto: "Code. Build. Deploy. Repeat. 🚀"
 };
 ```
 
@@ -173,13 +178,13 @@ const zakaria = {
 ## 🗺️ Developer Roadmap
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<!-- <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zakaria-dev800&theme=darkhub&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 ---
 
