@@ -20,7 +20,6 @@ Full-Stack & Mobile Developer 🚀
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Zakaria%20El%20Korchi&fontSize=50&animation=fadeIn" />
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Engineer+%F0%9F%9A%80;Flutter+%7C+React+%7C+Laravel+Developer;Node.js+%2B+Express+%7C+NEW+%F0%9F%9F%A2;Docker+%26+DevOps+%7C+NEW+%F0%9F%90%B3;Building+the+future+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6)](https://git.io/typing-svg)
 
 <br>
 
