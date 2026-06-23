@@ -7,7 +7,7 @@ Full-Stack & Mobile Developer 🚀
 </h3>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&height=100&lines=Zakaria+El+Korchi;Full+Stack+%26+Mobile+Engineer;Flutter+%7C+React+%7C+WordPress+%7C+Python+%7C+Laravel;Node.js+%7C+Express+%7C+Docker;Building+the+future+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Zakaria El Korchi - Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&height=100&lines=Zakaria+El+Korchi;Full+Stack+%26+Mobile;Flutter+%7C+React+%7C+WordPress+%7C+Python+%7C+Laravel;Node.js+%7C+Express+%7C+Docker;Building+the+future+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Zakaria El Korchi - Typing SVG" />
 
 
 
