@@ -7,12 +7,8 @@ Full-Stack & Mobile Developer 🚀
 </h3>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&height=100&lines=Zakaria+El+Korchi;Full-Stack+%26+Mobile+Engineer;Flutter+%7C+React+%7C+Laravel;Node.js+%7C+Express+%7C+Docker;Building+the+future+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&height=100&lines=Zakaria+El+Korchi;Full+Stack+%26+Mobile+Engineer;Flutter+%7C+React+%7C+WordPress+%7C+Python+%7C+Laravel;Node.js+%7C+Express+%7C+Docker;Building+the+future+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Zakaria El Korchi - Typing SVG" />
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
 
 
 
