@@ -6,10 +6,34 @@
 Full-Stack & Mobile Developer 🚀
 </h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=900&height=120&lines=Zakaria+El+Korchi;Full+Stack+%26+Mobile;Flutter+%7C+React+%7C+WordPress+%7C+Python;Laravel+%7C+Node.js+%7C+Express+%7C+Docker;Building+the+future+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6" />
+<!-- L'effet d'animation de texte (Typing SVG) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=900&height=120&lines=Zakaria+El+Korchi;Full+Stack+%26+Mobile;Flutter+%7C+React+%7C+WordPress+%7C+Python;Laravel+%7C+Node.js+%7C+Express+%7C+Docker;Building+the+future+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Zakaria El Korchi" />
 
+  <p align="center">
+    Entreprenant, passionné par le développement d'applications robustes et d'interfaces intuitives.
+  </p>
 
+  <!-- Ligne de séparation moderne -->
+  <img src="https://capsule-render.vercel.app/type=waving&color=58A6FF&height=60&section=header&text=&fontSize=90" width="100%" />
 
+  <br />
+
+  <!-- Badges technologiques animés / stylisés -->
+  <h3>🛠️ Stack Technique</h3>
+
+  <!-- Mobile & Front-end -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <br />
+
+  <!-- Back-end & Devops -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
   ```text
 ███████╗ █████╗ ██╗  ██╗ █████╗ ██████╗ ██╗ █████╗     ███████╗██╗          ██╗  ██╗ ██████╗ ██████╗  ██████╗██╗  ██╗██╗
