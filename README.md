@@ -125,7 +125,7 @@ const zakaria = {
 | 3 | 🔵 **Active** | Blood Donation App (React · Laravel) | `████████░░░░░░░░  60%` |
 | 4 | 🟢 **NEW** | Node.js + Express — APIs Backend | `████░░░░░░░░░░░░  30%` |
 | 5 | 🟢 **NEW** | Docker & Containerisation | `████░░░░░░░░░░░░  30%` |
-| 6 | ⚪ **Next** | Cloud / AWS / CI-CD Pipeline | `░░░░░░░░░░░░░░░░   50%` |
+| 6 | ⚪ **Next** | Cloud / AWS / CI-CD Pipeline | `░░░░░░░░░░░░░░░░   0%` |
 | 7 | ⚪ **Next** | AI Integration into Projects | `░░░░░░░░░░░░░░░░   0%` |
 
 > 🟢 = En cours &nbsp;|&nbsp; ✅ = Terminé &nbsp;|&nbsp; 🔵 = En progression &nbsp;|&nbsp; ⚪ = Planifié
@@ -150,7 +150,6 @@ const zakaria = {
 |-----------|---------------|----------|-----|
 | 🩸 **Blood Donation App** | Mise en relation donneurs / receveurs de sang | Flutter · Laravel | `In Progress` |
 | 🚨 **Alerts Mobile App** | Alertes et notifications en temps réel | Flutter | `Deployed` |
-| 🚌 **SchoolBus Maroc** | Suivi GPS des bus scolaires, sécurité élèves | Flutter | `Deployed` |
 | 📦 **Store Management** | Système full-stack de gestion de stock | Laravel · React | `Deployed` |
 | 🎓 **Student Absence Mgmt** | Suivi académique des absences | PHP · MySQL · Bootstrap | `Deployed` |
 | 🛡️ **Network Scanner Tool** | Scanner de sécurité réseau local | Python · Scapy | `Deployed` |
