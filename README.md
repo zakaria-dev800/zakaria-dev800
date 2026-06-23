@@ -146,7 +146,7 @@ const zakaria = {
 
 | 🏷️ Projet | 📝 Description | 🛠️ Stack | 🔗 |
 |-----------|---------------|----------|-----|
-| 🩸 **Blood Donation App** | Mise en relation donneurs / receveurs de sang | Flutter · Laravel | `In Progress` |
+| 🩸 **Blood Donation App** | Mise en relation donneurs / receveurs de sang | React · Laravel | `In Progress` |
 | 🚨 **Alerts Mobile App** | Alertes et notifications en temps réel | Flutter | `Deployed` |
 | 📦 **Store Management** | Système full-stack de gestion de stock | Laravel · React | `Deployed` |
 | 🎓 **Student Absence Mgmt** | Suivi académique des absences | PHP · MySQL · Bootstrap | `Deployed` |
