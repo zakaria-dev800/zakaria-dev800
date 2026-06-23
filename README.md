@@ -176,9 +176,8 @@ const zakaria = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-zakaria--dev800-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zakaria-dev800)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zakaria_El_Korchi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/zakaria-el-korchi-27297731a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zakaria_El_Korchi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-el-korchi-27297731a/)
 [![Email](https://img.shields.io/badge/Email-elkorchizakariya%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elkorchizakariya@gmail.com)
-
 </div>
 
 ---
